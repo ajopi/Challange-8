@@ -1,0 +1,180 @@
+.container-detail-payment {
+    width: 100%;
+}
+
+.card-detail-payment {
+    background: #FFFFFF;
+    /* Shadow/Low */
+
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    padding: 24px 24px 24px 24px;
+
+}
+
+.first-content-detail-payment {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-txt-detail-payment {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.paragraph-detail-payment {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 16px;
+
+}
+
+.bank-1 {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bank-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bank-3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.all-bank {
+    width: 61px;
+    height: 30px;
+
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 4px;
+
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.txt-detail-bank {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: #000000;
+
+    margin-left: 16px;
+}
+
+
+.title-car-detail-payment {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+
+.detail-spec-container-payment {
+    display: flex;
+    flex-direction: row;
+    /* width: 100%; */
+
+    justify-content: space-between;
+
+    margin-top: 8px;
+    margin-bottom: 50px;
+}
+
+.txt-spec-detail-payment {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 14px;
+    color: #8A8A8A;
+    margin-left: 5px;
+}
+
+.container-total-detail-payment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.total-txt-detail-payment {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+
+}
+
+.car-detail-price-detail-payment {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.container-rincian-harga {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.txt-container-rincian-harga {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #151515;
+}
+
+.txt-list {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #151515;
+}
+
+.txt-benefit {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #5CB85F;
+
+}

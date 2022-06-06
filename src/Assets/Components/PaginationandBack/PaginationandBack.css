@@ -1,0 +1,82 @@
+.container-pagination {
+    width: 1052px !important;
+    margin-top: 306px;
+    display: flex;
+    flex-direction: row;
+    /* height: 306px !important; */
+    /* align-items: flex-end; */
+}
+
+
+.container-kiri-pagination {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    align-content: center;
+}
+
+.container-kanan-pagination {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+.container-content-kanan-pagination {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+.txt-pembayaran {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-left: 21px;
+}
+
+.btn-1-pagination {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0D28A6;
+}
+
+.btn-2-pagination {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+    color: #000000;
+    background-color: #FFFFFF;
+    border-color: #0D28A6;
+}
+
+.img-dash {
+    margin-left: 8px;
+    width: 28px;
+    height: 1px;
+
+}

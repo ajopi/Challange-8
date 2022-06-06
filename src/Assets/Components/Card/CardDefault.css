@@ -1,0 +1,72 @@
+.card-default{
+    display: flex;
+    flex-direction: column;
+    height: 586px;
+    margin-top: 15px;
+}
+
+.foto-mobil{
+    display: flex;
+    width: 270px;
+    height: 160px;
+    width: 100%;
+    justify-content: center;
+
+    margin-top: 31px;
+}
+
+.namaMobil {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+
+    margin-top: 16px;
+}
+
+.hargaMobil {
+    margin-top: 8px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.txt-mobil {
+    margin-top: 8px;
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.property-card{
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.property-card-user{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    margin-bottom: 19px;
+}
+
+.property-card-txt{
+    margin-left: 8px;
+}
+
+.property-card-btn{
+    background-color: #5CB85F !important;
+    border-radius: 2px;
+    width: 100%;
+    margin-top: 21px;
+}

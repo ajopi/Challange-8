@@ -1,0 +1,313 @@
+.main-container {
+    display: flex;
+    flex-direction: row;
+    /* background-color: aqua !important; */
+    height: 100vh;
+    /* width: 100%; */
+}
+
+.container-dashboard {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100vh;
+    width: 70px;
+    background-color: #0D28A6;
+    position: fixed;
+}
+
+.navbar-content {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #151515; */
+    width: 100%;
+}
+
+.logo-kotak {
+    margin-top: 18px;
+    width: 34px;
+    height: 34px;
+}
+
+.logo-home {
+    width: 24px;
+    height: 24px;
+    margin: 28px 0px 0px 0px;
+}
+
+.tag {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    /* margin-top: 4px; */
+}
+
+
+.logo-truck {
+    margin-top: 20px;
+}
+
+
+/*  */
+.container-navbar {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    margin-left: 70px;
+}
+
+
+.navbar-custom {
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05) !important;
+    background-color: #FFFFFF !important;
+
+}
+
+.btn-search {
+    background-color: #FFFFFF !important;
+    color: #0D28A6 !important;
+}
+
+.logo-akun {
+    margin-left: 24px;
+    margin-right: 8px;
+}
+
+.menu-hamburger {
+    margin: 0px 0px 0px 120px;
+}
+
+.akun-name {
+    color: #151515;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    margin-right: 14px;
+}
+
+
+.container-content {
+    display: flex;
+    /* background-color: #0D28A6; */
+    height: 100vh;
+    /* width: 100%; */
+    margin-left: 70px;
+}
+
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    width: 220px;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+
+.dashboard-up {
+    margin: 35px 104px 19px 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8A8A8A;
+
+}
+
+.dashboard-low {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 42px;
+    background-color: #CFD4ED;
+    text-align: start;
+}
+
+.dashboard-low-title {
+    margin: 11px 48px 11px 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #151515;
+}
+
+/*  */
+.container-table {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.main-container-table-cars {
+    display: flex;
+    flex-direction: column;
+
+    /* background-color: #8A8A8A; */
+
+    margin: 32px 25px 38px 25px;
+
+
+}
+
+.content-table {
+    display: flex;
+    flex-direction: row;
+    /* padding: 32px 25px 38px 25px; */
+
+}
+
+.dashboard-table {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+
+.chevron-right {
+    margin: 0px 10px 0px 10px;
+}
+
+.dashboard-table-2 {
+    color: #222222;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 5px;
+
+
+}
+
+.dashboard-3-new-cars {
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    flex: 1;
+    align-items: center;
+
+    /* width: 100%; */
+}
+
+
+.container-new-car {
+    display: flex;
+    flex-direction: column;
+    /* background-color: aquamarine; */
+    margin-top: 16px;
+    height: 100%;
+}
+
+.container-input-1 {
+    display: flex;
+    flex-direction: row;
+    /* background-color: #0D28A6; */
+    margin-bottom: 16px;
+
+}
+
+.txt-input {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.txt {
+    display: flex;
+    width: 147px;
+    margin-right: 8px;
+    align-items: center;
+}
+
+.nama-input {
+    width: 339px;
+    height: 36px;
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+}
+
+.container-file {
+    display: flex;
+    flex-direction: row;
+    /* background-color: #0D28A6; */
+}
+
+.container-input-file {
+    display: flex;
+    flex-direction: column;
+    width: 339px;
+}
+
+.file-max {
+    margin-left: 155px;
+    color: #8A8A8A;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 14px;
+}
+
+.btn-newcar {
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 282px;
+}
+
+.btn-1 {
+    width: 70px;
+    height: 36px;
+    background-color: #FFFFFF;
+    border-radius: 2px;
+    border: 1px solid #0D28A6;
+    color: #0D28A6;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.btn-2 {
+    width: 70px;
+    height: 36px;
+    background-color: #0D28A6;
+    border: none;
+    border-radius: 2px;
+    margin-left: 16px;
+
+    color:  #FFFFFF;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}

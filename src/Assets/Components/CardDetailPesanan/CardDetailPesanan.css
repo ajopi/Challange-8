@@ -1,0 +1,121 @@
+.card-search-pesanan {
+    margin-top: -60px;
+    width: 1047px;
+    height: 124px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row !important;
+    padding: 24px 24px 24px 24px;
+
+}
+
+.btn-search-container-pesanan {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.btn-search-1-pesanan {
+    display: flex;
+    flex-direction: column;
+    width: 240.25px;
+}
+
+.btn-search-2-pesanan {
+    display: flex;
+    flex-direction: column;
+    width: 240.25px;
+    margin-left: 16px;
+}
+
+.btn-search-3-pesanan {
+    display: flex;
+    flex-direction: column;
+    width: 240.25px;
+    margin-left: 16px;
+
+}
+
+.btn-search-4-pesanan {
+    display: flex;
+    flex-direction: column;
+    width: 240.25px;
+    margin-left: 16px;
+
+}
+
+
+
+.txt-btn-search-pesanan {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    width: 121px;
+    height: 20px;
+}
+
+.tanggal-pesanan {
+
+    width: 240.25px;
+    height: 20px;
+
+    /* Body/14/Light */
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    /* Neutral/03 */
+
+    color: #8A8A8A;
+
+}
+
+.txt-tipe {
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #000000;
+    margin-top: 28px;
+    margin-bottom: 8px;
+}
+
+.txt-tipe-driver {
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #000000;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.txt-detail {
+    width: 240.25px;
+    height: 20px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #8A8A8A;
+}

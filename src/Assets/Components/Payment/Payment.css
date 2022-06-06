@@ -1,0 +1,128 @@
+.container-detail-car {
+    display: flex;
+    width: 100%;
+    
+}
+
+.row-container {
+    width: 1073px;
+}
+
+.card-content {
+    padding: 24px 24px 24px 24px;
+}
+
+.first-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.list-group-item {
+    border: none !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.title-txt {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.include-exclude-txt {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 16px;
+
+}
+
+.list-txt {
+    color: #8A8A8A;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 175%;
+    margin-bottom: 10px;
+}
+
+.modal-image-mobil{
+    width: 100% !important;
+}
+
+.second-content {
+    margin-top: 26px;
+}
+
+.title-accordion {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+
+}
+
+.title-car-detail {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.detail-spec-container {
+    display: flex;
+    flex-direction: row;
+    /* width: 100%; */
+
+    justify-content: space-between;
+
+    margin-top: 8px;
+    margin-bottom: 50px;
+}
+
+.txt-spec {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 14px;
+    color: #8A8A8A;
+    margin-left: 5px;
+}
+
+.container-total {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.car-detail-price {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.total-txt {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+
+}

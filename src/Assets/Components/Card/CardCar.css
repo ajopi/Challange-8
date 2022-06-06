@@ -1,0 +1,67 @@
+.card-mobil{
+    margin-top: 24px;
+}
+
+.img-mobil {
+    display: flex;
+    padding: 31px 17px 31px 16px;
+}
+
+.tipe-mobil {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+}
+
+.harga {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+.property-car {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.property-car-txt {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 10px;
+    
+}
+
+.property-car-2 {
+    margin: 16px 0px 8px 0px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.btn-card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.btn-delete{
+    width: 45% !important;
+}
+
+.btn-edit{
+    width: 45% !important;
+}

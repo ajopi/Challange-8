@@ -1,0 +1,324 @@
+.main-container-cars {
+    display: flex;
+    flex-direction: row;
+    /* background-color: aqua !important; */
+    height: 100vh;
+    /* width: 100%; */
+}
+
+.container-dashboard-cars {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100vh;
+    width: 70px;
+    background-color: #0D28A6;
+    position: fixed;
+}
+
+.navbar-content-cars {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #151515; */
+    width: 100%;
+}
+
+.logo-kotak-cars {
+    margin-top: 18px;
+    width: 34px;
+    height: 34px;
+}
+
+.logo-home-cars {
+    width: 24px;
+    height: 24px;
+    margin: 28px 0px 0px 0px;
+}
+
+.tag-cars {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    /* margin-top: 4px; */
+}
+
+
+.logo-truck {
+    margin-top: 20px;
+}
+
+
+/*  */
+.container-navbar-cars {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    margin-left: 70px;
+}
+
+
+.navbar-custom-cars {
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05) !important;
+    background-color: #FFFFFF !important;
+
+}
+
+.btn-search-cars {
+    background-color: #FFFFFF !important;
+    color: #0D28A6 !important;
+}
+
+.logo-akun-cars {
+    margin-left: 24px;
+    margin-right: 8px;
+}
+
+.menu-hamburger-cars {
+    margin: 0px 0px 0px 120px;
+}
+
+.akun-name-cars {
+    color: #151515;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+    margin-right: 14px;
+}
+
+
+.container-content-cars {
+    display: flex;
+    /* background-color: #0D28A6; */
+    height: 100vh;
+    /* width: 100%; */
+    margin-left: 70px;
+}
+
+
+.menu-cars {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    width: 220px;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+
+.dashboard-up-cars {
+    margin: 35px 104px 19px 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8A8A8A;
+
+}
+
+.dashboard-low-cars {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 42px;
+    background-color: #CFD4ED;
+    text-align: start;
+}
+
+.dashboard-low-title-cars {
+    margin: 11px 48px 11px 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #151515;
+}
+
+/*  */
+.container-table-cars {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.main-container-table-cars-cars {
+    display: flex;
+    flex-direction: column;
+
+    /* background-color: #8A8A8A; */
+
+    margin: 32px 25px 38px 25px;
+
+
+}
+
+.content-table-cars {
+    display: flex;
+    flex-direction: row;
+    /* padding: 32px 25px 38px 25px; */
+
+}
+
+.dashboard-table-cars {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+
+.chevron-right-cars {
+    margin: 0px 10px 0px 10px;
+}
+
+.dashboard-table-2-cars {
+    color: #222222;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 5px;
+
+
+}
+
+.dashboard-3-cars-cars {
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    flex: 1;
+    align-items: center;
+
+    /* width: 100%; */
+}
+
+.container-btn-new-car-cars {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    flex: 4;
+}
+
+.btn-new-car-cars {
+    background-color: #0D28A6 !important;
+    border-radius: 2px !important;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+}
+
+.list-btn-cars {
+    display: flex;
+    flex-direction: row;
+    margin-top: 26px;
+}
+
+.btn-group-cars {
+    margin-right: 16px;
+    background-color: #FFFFFF !important;
+    color: #AEB7E1 !important;
+    border: 1px solid #AEB7E1 !important;
+    border-radius: 2px;
+}
+
+
+.cards-group-cars {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* .card-mobil{
+    margin-top: 24px;
+}
+
+.img-mobil {
+    display: flex;
+    padding: 31px 17px 31px 16px;
+}
+
+.tipe-mobil {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+}
+
+.harga {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+.property-car {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.property-car-txt {
+    color: #000000;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    margin-left: 10px;
+    
+}
+
+.property-car-2 {
+    margin: 16px 0px 8px 0px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.btn-card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.btn-delete{
+    width: 45% !important;
+}
+
+.btn-edit{
+    width: 45% !important;
+} */

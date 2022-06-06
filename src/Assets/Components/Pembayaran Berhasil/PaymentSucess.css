@@ -1,0 +1,105 @@
+.container-success {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.container-atas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.txt-berhasil-payment-success {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 16px;
+
+}
+
+.txt-tunjukkan {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #8A8A8A;
+    margin-top: 16px;
+    margin-bottom: 40px;
+}
+
+.container-bawah {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-payment-success {
+
+    width: 605px;
+    padding: 24px 24px 24px 24px;
+}
+
+.container-content-payment-success {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.container-kiri-txt {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.container-kanan-txt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 50%;
+}
+
+.txt-content-card-payment-success {
+    display: flex;
+    flex-direction: column;
+}
+
+.txt-invoice {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.no-invoice {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #3C3C3C;
+    margin-top: 16px;
+}
+
+.btn-download-success {
+    width: 97px;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #0D28A6;
+    border-radius: 2px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #0D28A6;
+}

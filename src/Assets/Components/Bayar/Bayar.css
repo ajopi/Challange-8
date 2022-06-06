@@ -1,0 +1,237 @@
+.container-bayar {
+    width: 100%;
+
+}
+
+.card-bayar-1 {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+
+    padding: 24px 24px 17.05px 24px;
+}
+
+.container-content-bayar {
+    padding: 0px 0px 0px 0px;
+}
+
+
+.txt-bayar {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+
+}
+
+.tanggal-bayar {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #3C3C3C;
+    margin-top: 14.5px;
+}
+
+.container-jam-bayar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+}
+
+
+.titik-dua {
+    margin-right: 4px;
+}
+
+.hour-bayar {
+    display: flex;
+    justify-content: center;
+    width: 21px;
+    height: 26px;
+    margin-right: 4px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+    background-color: #FA2C5A;
+    border-radius: 2px;
+}
+
+/* card 2 */
+.card-bayar-2 {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+
+    margin-top: 24px;
+    padding: 24px 24px 17.05px 24px;
+}
+
+.container-content-bayar-2 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 0px 0px;
+}
+
+.container-nama-bank {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nama-bank-spesifik {
+    width: 61px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 4px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+
+}
+
+.container-nama-transfer {
+    margin-left: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.detail-txt-transfer {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.container-input-detail-bayar {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+}
+
+.nomor-rekening {
+    margin-bottom: 4px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C;
+}
+
+input[type="text"]::placeholder {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C;
+}
+
+/* Card 3 */
+.card-bayar-3 {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+
+    margin-top: 24px;
+    padding: 24px 24px 17.05px 24px;
+}
+
+.container-content-bayar-3 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 0px 0px;
+}
+
+.kumpulan-instruksi {
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+
+}
+
+.atm-bca {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.m-bca {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.bca-klik {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.internet-banking {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.list-instruksi {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 175%;
+    color: #8A8A8A;
+
+}
+
+
+
+
+

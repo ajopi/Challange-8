@@ -1,0 +1,110 @@
+.container-pagination-dua {
+    width: 1052px !important;
+    margin-top: 306px;
+    display: flex;
+    flex-direction: row;
+    /* height: 306px !important; */
+    /* align-items: flex-end; */
+}
+
+.container-kiri-pagination-dua {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+.txt-pembayaran-dua {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+    margin-left: 21px;
+}
+
+.orderId {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+    margin-left: 45px;
+}
+
+.container-kanan-pagination-dua {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+.container-content-kanan-pagination-dua {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+
+.btn-1-pagination-dua {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0D28A6;
+    border: 1px solid #0D28A6;
+
+}
+
+.btn-2-pagination-dua {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #0D28A6;
+    border: 1px solid #0D28A6;
+}
+
+.btn-3-pagination-dua {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 14px;
+    text-align: center;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #0D28A6;
+}
+
+.img-dash-dua {
+    margin-left: 8px;
+    width: 28px;
+    height: 1px;
+
+}

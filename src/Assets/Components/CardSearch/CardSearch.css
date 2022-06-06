@@ -1,0 +1,73 @@
+
+.card-search-cust {
+    margin-top: -60px;
+    width: 1047px;
+    height: 106px;
+    display: flex;
+    flex-direction: row !important;
+    padding: 24px 24px 24px 24px;
+
+}
+
+.btn-search-container-cust {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-search-property-cust{
+    height: 36px;
+}
+
+.btn-search-1-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+}
+
+.btn-search-2-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+}
+
+.btn-search-3-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+
+}
+
+.btn-search-4-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+
+}
+
+.btn-Mobil-cust {
+    margin-left: 14px;
+    margin-top: 18px;
+    width: 92px;
+    height: 36px;
+    background-color: #5CB85F !important;
+    border-radius: 2px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+
+.txt-btn-search-cust {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C
+}

@@ -1,0 +1,236 @@
+.main-container-cust {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+/* navbar */
+.navbar-container-cust {
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F3FF !important;
+
+}
+
+
+.btn-nav-cust {
+    display: flex;
+    flex-direction: row !important;
+    width: 100%;
+    justify-content: end;
+}
+
+.property-nav-cust {
+    color: #000000 !important;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-right: 32px;
+}
+
+.btn-register-cust {
+    background: #5CB85F !important;
+    border-radius: 2px !important;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFF;
+}
+
+/* End of Navbar */
+
+/* Content */
+.container-fluid-content-cust {
+    background-color: #F1F3FF;
+
+    min-height: 25rem;
+}
+
+/* suspicious! */
+.container-content {
+    display: flex;
+    flex-direction: column;
+
+    /* background-color: #F1F3FF; */
+}
+
+.txt {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* .txt-title {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #000000;
+} */
+
+.txt-content {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.img-car {
+    max-width: 100%;
+    margin-top: 37px;
+
+}
+
+/* end of content */
+
+
+
+/* Search button */
+.btn-search-cust {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+
+}
+
+/* .card-search-cust {
+    margin-top: -60px;
+    width: 1047px;
+    height: 106px;
+    display: flex;
+    flex-direction: row !important;
+    padding: 24px 24px 24px 24px;
+
+} */
+
+/* .btn-search-container-cust {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .btn-search-property-cust{
+    height: 36px;
+} */
+
+/* .btn-search-1-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+} */
+
+/* .btn-search-2-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+} */
+
+/* .btn-search-3-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+
+} */
+
+/* .btn-search-4-cust {
+    display: flex;
+    flex-direction: column;
+    width: 210.75px;
+    margin-left: 16px;
+
+} */
+
+/* .btn-Mobil-cust {
+    margin-left: 14px;
+    margin-top: 18px;
+    width: 92px;
+    height: 36px;
+    background-color: #5CB85F !important;
+    border-radius: 2px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+} */
+
+/* .txt-btn-search-cust {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C
+} */
+
+/* end of search button */
+
+
+
+/* Container card */
+.container-card-cust{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 1047px !important;
+    padding: 0;
+}
+
+/* end of container card */
+
+
+
+
+/* footer */
+.container-footer-cust{
+    margin-top: 108px;
+}
+
+.footer-icon-container-cust {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+.txt-footer-1-cust {
+    margin-bottom: 16px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.txt-footer-2-cust {
+    margin-bottom: 16px;
+    margin-left: 86px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+
+
+.footer-icon-cust {
+    margin-right: 16px;
+}
+
+/* end of footer */
